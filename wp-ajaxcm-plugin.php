@@ -12,6 +12,8 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 */
 
+/* test edit via c9 ide */
+
 define(AJAXCM_PLUGIN_PATH, '/wp-ajaxcm-plugin');
 
 define(NAVI_TOP, 1);
